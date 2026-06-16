@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/Ismaellerakotoson)
-- Live Site URL: [Live Demo](https://github.com/Ismaellerakotoson/faq-accordion.git)
+- Live Site URL: [Live Demo](https://ismaellerakotoson.github.io/faq-accordion)
 
 ## Built With
 
